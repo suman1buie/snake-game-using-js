@@ -1,0 +1,17 @@
+*{
+	padding: 0px;
+	margin:0px;
+	box-sizing: border-box;
+}
+body{
+	padding: 0px;
+	margin:0px;
+}
+
+#mycanvas{
+	width: 100vw;
+	height: 100vh;
+	background-color: black;
+	border: 5px solid orange;
+	border-radius: 10px;
+}
